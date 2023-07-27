@@ -14,5 +14,10 @@
     "dotenv": "^16.3.1",
     "nodemailer": "^6.9.4",
     "pg": "^8.11.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.45.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5"
   }
 }
